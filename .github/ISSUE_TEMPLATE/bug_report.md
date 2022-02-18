@@ -24,5 +24,7 @@ If applicable, add screenshots to help explain your problem.
 
 ## How to fix（修正案）
 
+## Deadline (期限)
+
 ## Additional context
 Add any other context about the problem here.
