@@ -1,3 +1,12 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: "[FEAT] "
+labels: enhancement
+assignees: ''
+
+---
+
 ## Outline（概要）
 
 ## Background（背景・経緯）
