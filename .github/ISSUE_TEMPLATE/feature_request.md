@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: "[FEAT] "
 labels: enhancement
 assignees: ''
-
+type: Feature
 ---
 
 ## Outline（概要）
