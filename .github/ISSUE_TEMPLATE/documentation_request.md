@@ -4,7 +4,7 @@ about: Suggest a documentation idea for this project
 title: "[DOCS] "
 labels: documentation
 assignees: ''
-
+type: Task
 ---
 
 ## Outline（概要）
