@@ -7,24 +7,15 @@ assignees: ''
 
 ---
 
-## Outline（概要）
+## Outline
 
-## Background（背景・経緯）
+## Background
 
-### Is your refactoring request related to a problem? Please describe.
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Spec
 
-## Spec（仕様）
+## Deadline
 
-### Describe the solution you'd like
-A clear and concise description of what you want to happen.
-
-### Describe alternatives you've considered
-A clear and concise description of any alternative solutions or features you've considered.
-
-## Deadline（期限）
-
-## Reference（参考）
+## Reference
 
 ## Additional context
-Add any other context or screenshots about the feature request here.
+
